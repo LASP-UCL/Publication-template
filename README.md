@@ -1,7 +1,7 @@
 [**Prerequisites**](#prerequisites)
-| [**Install guides**](#install-guide)
+| [**Install guide**](#install-guide)
 | [**Experiments**](#experiments)
-| [**Contacts**](#links) 
+| [**Contacts**](#contacts) 
 | [**Cite**](#cite)
 
 # Computing Machinery and Intelligence
@@ -31,7 +31,7 @@ Add the code required to run a specific experiment - an example is shown below.
 python experiments/the-imitation-game.py
 ```
 
-## Links
+## Contacts
 Add your contact details here, included but not limited to your email, twitter, google scholar, GitHub.
 * alan@turing.ai
 * https://twitter.com/aturing
