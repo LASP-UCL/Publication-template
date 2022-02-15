@@ -42,12 +42,14 @@ Add your contact details here, included but not limited to your email, twitter, 
 ## Cite
 Add your bibtex here, e.g.
 ```
-@incollection{turing2009computing,
-  title={Computing machinery and intelligence},
-  author={Turing, Alan M},
-  booktitle={Parsing the turing test},
-  pages={23--65},
-  year={2009},
-  publisher={Springer}
+@article{turing1950mind,
+  title={Mind},
+  author={Turing, Alan Mathison},
+  journal={Mind},
+  volume={59},
+  number={236},
+  pages={433--460},
+  year={1950}
 }
+
 ```
