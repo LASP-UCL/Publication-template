@@ -1,3 +1,7 @@
+```diff
+-PLEASE RENAME THIS REPOSITORY WITH THE TITLE OF YOUR PUBLICATION AND REMOVE THIS LINE.
+```
+
 [**Prerequisites**](#prerequisites)
 | [**Install guide**](#install-guide)
 | [**Experiments**](#experiments)
@@ -5,9 +9,9 @@
 | [**Cite**](#cite)
 
 # Computing Machinery and Intelligence
-#### Author(s)
+#### Author(s):
 Alan Turing, Victoria University of Manchester
-#### Manuscript
+#### Manuscript:
 https://academic.oup.com/mind/article-pdf/LIX/236/433/30123314/lix-236-433.pdf
 #### Abstract 
 _I propose to consider the question, “Can machines think?”♣ This should begin with definitions of the meaning of the terms “machine” and “think”. The definitions might be framed so as to reflect so far as possible the normal use of the words, but this attitude is dangerous. If the meaning of the words “machine” and “think” are to be found by examining how they are commonly used it is difficult to escape the conclusion that the meaning and the answer to the question, “Can machines think?” is to be sought in a statistical survey such as a Gallup poll._
