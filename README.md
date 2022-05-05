@@ -5,7 +5,10 @@
 | [**Cite**](#cite)
 
 # Computing Machinery and Intelligence
-#### Manuscript: https://academic.oup.com/mind/article-pdf/LIX/236/433/30123314/lix-236-433.pdf
+#### Author(s)
+Alan Turing, Victoria University of Manchester
+#### Manuscript
+https://academic.oup.com/mind/article-pdf/LIX/236/433/30123314/lix-236-433.pdf
 #### Abstract 
 _I propose to consider the question, “Can machines think?”♣ This should begin with definitions of the meaning of the terms “machine” and “think”. The definitions might be framed so as to reflect so far as possible the normal use of the words, but this attitude is dangerous. If the meaning of the words “machine” and “think” are to be found by examining how they are commonly used it is difficult to escape the conclusion that the meaning and the answer to the question, “Can machines think?” is to be sought in a statistical survey such as a Gallup poll._
 
@@ -40,7 +43,6 @@ Add your contact details here, included but not limited to your email, twitter, 
 
 
 ## Cite
-Add your bibtex here, e.g.
 ```
 @article{turing1950mind,
   title={Mind},
