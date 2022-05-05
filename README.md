@@ -10,7 +10,7 @@
 
 # Computing Machinery and Intelligence
 #### Author(s):
-Alan Turing, Victoria University of Manchester
+Alan Turing, Victoria University of Manchester, Department of Mathematics
 #### Manuscript:
 https://academic.oup.com/mind/article-pdf/LIX/236/433/30123314/lix-236-433.pdf
 #### Abstract 
